@@ -3,6 +3,7 @@
 ## 📑 Project Documentation
 For a detailed breakdown of goals, milestones, and technical requirements, please refer to the official project plan:
 - **[Project Plan Document](https://docs.google.com/document/d/1RGcGkZOCT4o82sTc0dEztuPdRH4IaqqFcgrrK5VMRwA/edit?tab=t.0)**
+- **[Video Update Slideshow](https://docs.google.com/presentation/d/1pVHoRLjgGMjIAV1Io36SoTaroasC2D2w7Rd8RtaDfx0/edit?slide=id.g3c4e4db0526_1_0#slide=id.g3c4e4db0526_1_0)**
 
 ---
 

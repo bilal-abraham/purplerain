@@ -7,7 +7,7 @@ For a detailed breakdown of goals, milestones, and technical requirements, pleas
 ## WIP Items
 - **[Weekly Reflection #1](https://docs.google.com/document/d/189fmn751rzRS7JZok5fnFov3hEypNOJ-mbh3aNaxpiU/edit?tab=t.0)**
 - **[Video Update Slideshow](https://docs.google.com/presentation/d/1pVHoRLjgGMjIAV1Io36SoTaroasC2D2w7Rd8RtaDfx0/edit?slide=id.g3c4e4db0526_1_0#slide=id.g3c4e4db0526_1_0)**
-- **[Colab Workspace](https://colab.research.google.com/drive/16-HEO0JM6OGqpqtHm0XtS4Cz4SiJ9l8P?authuser=1#scrollTo=nZcJpzMtjn-q)**
+- **[Colab Workspace](https://colab.research.google.com/drive/1qp1Ox-pQSeDY5qkCfzjStaqSGTYO4pCI?authuser=1#scrollTo=s2QoMS8kZor8)**
 
 ---
 
